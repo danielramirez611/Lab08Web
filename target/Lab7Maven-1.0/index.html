@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bienvenidos a Saga</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            padding-top: 20px;
+        }
+        .container {
+            max-width: 600px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin: auto;
+        }
+        .list-group-item {
+            border: none;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+            border-radius: 0;
+            transition: background-color 0.3s;
+        }
+        .list-group-item:last-child {
+            border-bottom: none;
+        }
+        .list-group-item a {
+            color: #007bff;
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+        .list-group-item:hover {
+            background-color: #f8f9fa;
+        }
+        .list-group-item a:hover {
+            color: #0056b3;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h3 class="text-center mb-4">Bienvenidos a Saga y Ripley</h3>
+        <ul class="list-group">
+            <li class="list-group-item"><a href="/Lab7Maven/listar">Mostrar productos</a></li>
+            <li class="list-group-item"><a href="/Lab7Maven/registrar">Registrar producto</a></li>
+            <li class="list-group-item"><a href="/Lab7Maven/buscar">Buscar productos por nombre</a></li>
+            <li class="list-group-item"><a href="/Lab7Maven/buscarPorId">Buscar productos por id</a></li>
+            <li class="list-group-item"><a href="/Lab7Maven/eliminar">Eliminar producto</a></li>
+        </ul>
+    </div>
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <!-- Bootstrap JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-pzjw8f+V4Tq+8aE5ZlrIswbG/c2T7iqJzoIYw+XtlE5hFfRIjgxz2OKt4L9YYooD" crossorigin="anonymous"></script>
+</body>
+</html>

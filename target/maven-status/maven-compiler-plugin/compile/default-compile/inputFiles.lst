@@ -1,0 +1,14 @@
+D:\lab8appsweb-main\src\main\java\com\martin\lab7maven\models\ProductoDao.java
+D:\lab8appsweb-main\src\main\java\com\martin\lab7maven\models\GenericDao.java
+D:\lab8appsweb-main\src\main\java\com\martin\lab7maven\resources\JakartaEE8Resource.java
+D:\lab8appsweb-main\src\main\java\com\martin\lab7maven\models\Producto.java
+D:\lab8appsweb-main\src\main\java\com\martin\lab7maven\models\ConexionMysql.java
+D:\lab8appsweb-main\src\main\java\com\martin\lab7maven\controllers\ListarProducto.java
+D:\lab8appsweb-main\src\main\java\com\martin\lab7maven\models\ConexionMongoDb.java
+D:\lab8appsweb-main\src\main\java\com\martin\lab7maven\models\ProductoRepositoryMongoDb.java
+D:\lab8appsweb-main\src\main\java\com\martin\lab7maven\JakartaRestConfiguration.java
+D:\lab8appsweb-main\src\main\java\com\martin\lab7maven\controllers\BuscarProducto.java
+D:\lab8appsweb-main\src\main\java\com\martin\lab7maven\models\ProductoRepositoryMySql.java
+D:\lab8appsweb-main\src\main\java\com\martin\lab7maven\controllers\EliminarProducto.java
+D:\lab8appsweb-main\src\main\java\com\martin\lab7maven\controllers\RegistrarProducto.java
+D:\lab8appsweb-main\src\main\java\com\martin\lab7maven\controllers\BuscarProductoPorId.java

@@ -1,0 +1,14 @@
+com\martin\lab7maven\controllers\EliminarProducto.class
+com\martin\lab7maven\models\Producto.class
+com\martin\lab7maven\models\ProductoRepositoryMongoDb.class
+com\martin\lab7maven\resources\JakartaEE8Resource.class
+com\martin\lab7maven\controllers\RegistrarProducto.class
+com\martin\lab7maven\models\ProductoRepositoryMySql.class
+com\martin\lab7maven\controllers\BuscarProducto.class
+com\martin\lab7maven\models\GenericDao.class
+com\martin\lab7maven\models\ProductoDao.class
+com\martin\lab7maven\controllers\BuscarProductoPorId.class
+com\martin\lab7maven\models\ConexionMongoDb.class
+com\martin\lab7maven\models\ConexionMysql.class
+com\martin\lab7maven\controllers\ListarProducto.class
+com\martin\lab7maven\JakartaRestConfiguration.class
